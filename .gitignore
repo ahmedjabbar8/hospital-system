@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.backup
+tmp/
+# HospitalSystem.db # Uncomment if you want to exclude the database file
