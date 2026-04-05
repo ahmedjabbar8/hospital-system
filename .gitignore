@@ -12,4 +12,7 @@ venv/
 *.log
 *.backup
 tmp/
+HealthPro - 12 - Copy/
+*.db.backup
 # HospitalSystem.db # Uncomment if you want to exclude the database file
+HealthPro - 12 - Copy  
